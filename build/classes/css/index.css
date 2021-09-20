@@ -1,0 +1,22 @@
+body{
+    background-color: whitesmoke ;
+    background-image: url(../icon/icon.png); 
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+}
+.qPanel{
+    margin:auto;
+    width:180px;
+    vertical-align: right;
+    margin:0 auto;
+    background-color: orange ;
+    border: orange ;
+    border-radius : 10px ;
+    padding: 20px ;
+    height: 120px ;
+    font-size: 14pt;
+}
